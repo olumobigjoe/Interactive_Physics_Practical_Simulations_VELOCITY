@@ -2,9 +2,6 @@
 
 An interactive, web-based virtual laboratory application designed for Higher National Diploma (HND) Physics programs. This platform serves as a software-defined physics engine to model classical kinematics under quadratic atmospheric resistance across different planetary environments, while actively tracking student pedagogical metrics.
 
-## 🚀 Live Demo
-[Insert your live Streamlit Community Cloud URL here once deployed]
-
 ---
 
 ## 📌 Project Overview
